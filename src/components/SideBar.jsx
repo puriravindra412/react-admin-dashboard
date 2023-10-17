@@ -63,7 +63,7 @@ const SideBar = (props) => {
                 
                 
         </ul>
-         <div className='absolute bottom-11  p-2 flex items-center bg-indigo-900 h-11  rounded  md:w-56 sm:w-52'>
+         <div className='absolute bottom-14  p-2 flex items-center bg-indigo-900 h-11  rounded  md:w-56 sm:w-52'>
          <img src='https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80' alt='' className='w-8 h-8  rounded-full '></img>
          <div className='flex mx-2 flex-col items-start'><p className='text-xs gap-0 font-semibold m-0 text-white'>Evano</p><p className=' m-0 gap-0 text-slate-400' style={{fontSize:'10px'}}>project manager</p></div>
          <span className='ml-auto text-slate-400'><HiChevronDown /></span>
