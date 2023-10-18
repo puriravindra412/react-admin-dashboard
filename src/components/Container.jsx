@@ -52,7 +52,7 @@ const data=[
 const Container = () => {
   return (
    
-    <div className='w-full  sm:p-8 p-4  bg-slate-200 '>
+    <div className='w-full  sm:p-8 p-4 py-2 bg-slate-200 '>
     <div className='sm:flex hidden'>
     <p className='ttext-base ml-2 '>Hello Shahrukh </p>
     <span>👋,</span>

@@ -37,9 +37,9 @@ function App() {
         
         <p className='text-sm text-white ml-2 '>Hello Shahrukh </p>
         <span>👋,</span>
-        <div className='ml-auto w-2/5 p-1 border rounded h-10 flex items-center bg-white mr-2'>
+        <div className='ml-auto w-auto p-1 border rounded h-10 flex items-center bg-white mr-2'>
             <MdSearch />
-            <input className='text-xs h-8 p-1 ml-1 w-auto min-w-fit max-w-sm' placeholder='Search'></input>
+            <input className='text-xs h-8 p-1 ml-1  w-20' placeholder='Search'></input>
         
     </div>
     
